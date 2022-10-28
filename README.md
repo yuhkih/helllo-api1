@@ -1,4 +1,4 @@
-# api-sample
+# hello-api1
 
 ubi8 と ngix を使用
 API のデモ用にそれっぽい JSONを返すだけのサンプル
